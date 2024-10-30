@@ -3,3 +3,10 @@
 /test
 /weights
 /datasets_del
+/augmentation/__pycache__
+/inference/__pycache__
+/metrics/__pycache__
+/misc/__pycache__
+/raspberry_inf/__pycache__
+/.gitignore
+/inference/a.py
